@@ -6,7 +6,8 @@
 
 - 💞️ I’m looking to collaborate on research and applied projects in E&P, petrophysics, and open geophysical datasets
 
-- 📫 How to reach me: LinkedIn | bruno.michelson.121@ufrn.edu.br
+- 📫 How to reach me: LinkedIn | https://www.linkedin.com/in/7michelson
+- ✉️ Email: | bruno.michelson.121@ufrn.edu.br
 
 - ⚡ Fun fact: I built a sustainable seismograph prototype during my undergrad and love connecting code with real-world geoscience problems
 
